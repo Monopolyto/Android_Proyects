@@ -2,5 +2,5 @@
 Proyectos realizados a base de Android Studio
 
 Proyectos realizados:
-   -My.zip
+	-My.zip
    "RecyclerView with Spinner"
